@@ -1,2 +1,6 @@
 print("Hello")
-Print("0100000")
+
+
+def Hello( name):
+    print("Hello : ", name)
+Hello("Christian")
