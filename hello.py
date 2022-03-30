@@ -1,6 +1,10 @@
 print("Hello")
 
 
-def Hello( name):
+def hello( name):
     print("Hello : ", name)
-Hello("Christian")
+hello("Christian")
+
+def age(yourAge):
+    print("Your age is ", yourAge)
+age(20)
